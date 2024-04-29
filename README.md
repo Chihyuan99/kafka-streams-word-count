@@ -39,3 +39,7 @@ kafka-console-producer --broker-list localhost:9092 --topic word-count-input
 ### 8. Navigate to Confluent Control Center at http://localhost:9021 and see the topics and partition details
 <img src="images/3.png" >
 <img src="images/10.png" >
+
+## References
+1. Confluent Quick Start: https://docs.confluent.io/platform/current/installation/installing_cp/zip-tar.html#prod-kafka-cli-install
+2. Kafka Quick Start: https://kafka.apache.org/quickstart
