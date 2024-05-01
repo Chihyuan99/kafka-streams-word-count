@@ -1,5 +1,5 @@
 # kafka-streams-word-count
-This is a **Kafka Streams application** that performs real-time word counting on incoming streams of text data. It ingests text data from a Kafka topic named `word-count-input`, processes each text line by converting it to lowercase, splitting it into individual words, and then counting the occurrences of each word. The application then outputs the word counts to another Kafka topic named `word-count-output`. 
+This is a **Kafka Streams application** that performs real-time word counting on incoming streams of text data. It ingests text data from a Kafka topic named `word-count-input`, processes each text line by converting it to lowercase, splitting it into individual words, and then counting the occurrences of each word. The application then outputs the word counts to another Kafka topic named `word-count-output`.
 
 ## Steps
 ### 1. Run Confluent Platform locally
