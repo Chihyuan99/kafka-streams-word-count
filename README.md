@@ -30,7 +30,7 @@ kafka-console-producer --broker-list localhost:9092 --topic word-count-input
 ```
 
 ### 7. Start producing data to it and see the output in the consumer console
-- Input data
+- Input data 
 <img src="images/1.png" width="60%">
 
 - Output data: word counts
