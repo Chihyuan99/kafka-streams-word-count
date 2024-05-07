@@ -40,6 +40,6 @@ kafka-console-producer --broker-list localhost:9092 --topic word-count-input
 <img src="images/3.png" >
 <img src="images/10.png" >
 
-## References
+## References 
 1. Confluent Quick Start: https://docs.confluent.io/platform/current/installation/installing_cp/zip-tar.html#prod-kafka-cli-install
 2. Kafka Quick Start: https://kafka.apache.org/quickstart
