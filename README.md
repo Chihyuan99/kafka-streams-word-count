@@ -36,7 +36,7 @@ kafka-console-producer --broker-list localhost:9092 --topic word-count-input
 - Output data: word counts
 <img src="images/2.png" width="60%">
 
-### 8. Navigate to Confluent Control Center at http://localhost:9021 and see the topics and partition details
+### 8. Navigate to Confluent Control Center at http://localhost:9021 and see the topics and partition details 
 <img src="images/3.png" >
 <img src="images/10.png" >
 
